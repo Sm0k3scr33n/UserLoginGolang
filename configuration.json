@@ -1,0 +1,6 @@
+{
+    "Email": ["email@gmail.com"],
+    "Password": ["passwordforemail"],
+    "smtp_port": ["543"]
+    
+}

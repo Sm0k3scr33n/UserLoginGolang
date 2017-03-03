@@ -1,0 +1,10 @@
+fname := request.FormValue("fname")
+lname := request.FormValue("lname")
+email := request.FormValue("email")
+phone := request.FormValue("phone")
+password := request.FormValue("password")
+
+
+db.users.insert( { _id: 10, item: "box", qty: 20 } )
+
+db.userbase.insert( { name: "ben", password: "password" } )
